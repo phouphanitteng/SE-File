@@ -1,0 +1,14 @@
+SE project:
+
+1. Group
+  - 3 members 
+2. Project + Topics
+3. Gathering Requiments (Function of system)
+     - Figma
+     - Adobe Xd
+4. Project Analysis + Design
+     - Project structure
+     - Class Diagram (UML)	
+5. Activity Diagram (How a function work)
+6. Sequence Diagram
+    Physical Architecture [Browser] <--> http/https <--> [Server] <--> Firebase

@@ -1,0 +1,174 @@
+Login
+-username
+-email
+-password
+
+Method: Login()
+
+Register
+-username
+-phone number
+-email
+-password
+-address
+-gender
+
+action: Register()
+
+Home page
+- departure
+- place
+- departing
+- popular routes: control by admin
+- Travel trip: control by admin
+- Testimonails: control by admin
+- image popular routes and Travel trip
+
+action:
+searchAvailableTicket()
+makeReservationTicket(): if there are available bus/taxi
+
+Contact us
+- Full name
+- Your email
+- Message
+
+action 
+sendMassage()
+
+Buses
+- departure
+- place
+- departing
+- returnTime
+- price
+- date
+- typeOfBus
+- imageOfeachBus
+- rating
+
+action:
+previewBus(): preview seat of Bus, departure, returnTime, place, arrived time, duration time
+price
+searchAvailableTicket()
+booking(): go to fill information(seat of Bus, departure, returnTime, place, arrived time, duration time
+price
+
+Taxi
+- departure
+- place
+- departing
+- returnTime
+- price
+- date
+- typeOfTaxi
+- imageOfeachTaxi
+- rating
+
+action:
+previewTaxi(): preview seat of Taxi, departure, returnTime, place, arrived time, duration time
+price
+searchAvailableTicket()
+booking(): go to fill information(seat of Taxi, departure, returnTime, place, arrived time, duration time
+price
+
+
+Trip
+- departure
+- place
+- departing
+- returnTime
+- price
+- date
+- typeOfVehicles
+
+action
+searchAvailableTicket()
+
+selectTrip(): 
+
+schedule
+
+- departure
+- duration
+- return time
+- main location: owned place
+- direction: a place to go
+- arrived time of vihecle
+- nameService
+- Price
+
+action
+select()
+
+
+selectingSeat
+- departure
+- duration
+- return time
+- main location: owned place
+- direction: a place to go
+- arrived time of vihecle
+- nameService
+- Price
+- seat
+
+action
+
+confirmSeat()
+
+
+Passengers
+
+- firstname
+- lastname
+- gender
+- email
+- mobile number
+- nameService
+- direction
+- arrival
+- totalSeats
+- seatNumber
+- Vehicle Type
+- Ticket fare = total price
+
+action
+cancellationPolicy()
+processToPayment()
+
+Payment
+- cardHolderName
+- CardNumber
+- Expiry Date
+- CVV
+- firstname
+- lastname
+- gender
+- Pincode
+- state
+- Province
+- City
+- addressUser
+- PhoneNumber
+- email
+- image
+
+action
+
+confirmPayment()
+cancelPayment()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
